@@ -1,0 +1,5 @@
+2024-07-01 expense rent 15000.00
+2024-07-30 expense food 1500.00
+2024-07-31 income interest 30000.00
+2024-08-01 expense monthlybudget 4000.00
+2024-08-02 income dividend 4000.00
